@@ -1,0 +1,9 @@
+numpy
+pandas
+tensorflow
+scikit-learn
+matplotlib
+pgmpy
+fancyimpute
+scipy
+
